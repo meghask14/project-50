@@ -1,0 +1,32 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+.bodyimg{
+    border-style: dotted;
+    background-color: rgb(99, 235, 245);
+    border-color:red;
+    color: white;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;  
+}
+.origami{
+    border-radius: 20px;
+    width: 310px;
+    border-style: double;
+    margin: 20px;
+    background-color:rgb(99, 235, 245);
+    color: white;
+    border-color: red;
+   
+}
+p{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(250, 216, 235);
+}
